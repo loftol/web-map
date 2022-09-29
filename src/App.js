@@ -11,7 +11,7 @@ function App() {
     position: markerPosition,
     clickable: true,
   });
-  const iwContent = '<div style = "padding:5px;">Hello World!</div>';
+  const iwContent = `<div style = "padding:5px;">sogangUniv</div>`;
   const infoWindow = new kakao.maps.InfoWindow({
     content: iwContent,
     removable: true,
