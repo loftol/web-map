@@ -8,6 +8,7 @@ module.exports = {
     'eslint:recommended',
     'plugin:react/recommended',
     'airbnb',
+    'plugin:react/jsx-runtime',
     'plugin:prettier/recommended',
   ],
   overrides: [],
